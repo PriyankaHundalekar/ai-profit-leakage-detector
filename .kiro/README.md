@@ -14,11 +14,11 @@ Businesses lose millions in profits due to hidden inefficiencies, pricing issues
 - ⏰ Manual analysis takes weeks and often misses critical issues
 - 🔍 Traditional tools lack AI-powered insights and recommendations
 
-## �a Solution
+## Solution
 
 This AI-powered profit leakage detector analyzes your business data and identifies:
 
-### � **Deotection Areas**
+### **Deotection Areas**
 - **Revenue Leaks** - Pricing issues, lost sales, discount abuse
 - **Cost Overruns** - Unnecessary expenses, inefficient processes  
 - **Operational Inefficiencies** - Waste, delays, poor resource utilization
