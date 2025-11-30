@@ -211,48 +211,6 @@ This project was accelerated using Kiro IDE's AI-powered development features:
 - **Smart Debugging** - Intelligent error detection and resolution
 - **Enhanced Productivity** - 3x faster development cycle
 
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/amazing-feature`)
-3. **Commit your changes** (`git commit -m 'Add amazing feature'`)
-4. **Push to the branch** (`git push origin feature/amazing-feature`)
-5. **Open a Pull Request**
-
-### Development Guidelines
-- Follow PEP 8 style guidelines
-- Add docstrings to all functions
-- Include unit tests for new features
-- Update documentation for any changes
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🏆 Awards & Recognition
-
-- 🥇 **AI for Bharat Challenge** - Innovative AI Solution
-- 🚀 **Built with Kiro IDE** - Showcasing AI-accelerated development
-- 💡 **AWS Bedrock Integration** - Advanced AI capabilities
-
-## 📞 Support & Contact
-
-### 🐛 **Issues & Bug Reports**
-- Create an issue in this repository
-- Provide detailed reproduction steps
-- Include system information and error logs
-
-### 💬 **Questions & Discussions**
-- Use GitHub Discussions for general questions
-- Join our community for tips and best practices
-
-### 📧 **Business Inquiries**
-For enterprise solutions, custom implementations, or partnership opportunities:
-- Email: [your-email@domain.com]
-- LinkedIn: [Your LinkedIn Profile]
-
 ## 🙏 Acknowledgments
 
 - **AWS Bedrock Team** - For providing powerful AI capabilities
@@ -268,9 +226,6 @@ For enterprise solutions, custom implementations, or partnership opportunities:
 - **Integration with Major ERP Systems**
 
 
-
 **Built with ❤️ using [Kiro IDE](https://kiro.ai) and AWS Bedrock**
 
-[🚀 Try Live Demo](https://your-demo-link.com) | [📖 Documentation](https://github.com/PriyankaHundalekar/ai-profit-leakage-detector/wiki) | [🐛 Report Bug](https://github.com/PriyankaHundalekar/ai-profit-leakage-detector/issues)
 
-</div>
