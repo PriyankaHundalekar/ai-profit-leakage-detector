@@ -1,0 +1,27 @@
+Business Performance Report - Q4 2024
+
+Revenue Metrics:
+- Monthly Revenue: $250,000
+- Quarterly Revenue: $750,000
+- Year-over-year growth: 15%
+
+Cost Structure:
+- Cost of Goods Sold: $162,500 (65%)
+- Operating Expenses: $45,000
+- Marketing Spend: $18,000
+- Customer Support: $8,000
+
+Customer Metrics:
+- Customer Acquisition Cost: $150
+- Customer Lifetime Value: $850
+- Monthly Churn Rate: 8.5%
+- Average Order Value: $125
+- Return Rate: 12.5%
+
+Operational Issues:
+- Inventory turnover: 4.2x annually
+- Shipping costs increased 15% this quarter
+- Customer support tickets up 25%
+- Marketing ROI declining
+- High return rates in electronics category
+- Seasonal demand fluctuations causing stockouts
